@@ -51,19 +51,7 @@ Hyperparameter tuning with GridSearchCV
 
 Evaluation with confusion matrix & accuracy scores
 
-⚙️ Installation
 
-Clone the repo and install dependencies:
-
-git clone https://github.com/your-username/spacex-launch-analysis.git
-cd spacex-launch-analysis
-pip install -r requirements.txt
-
-▶️ Running the Dashboard
-python spacex_dash_app.py
-
-
-Then open your browser at: http://127.0.0.1:8050/
 
 📈 Results
 
